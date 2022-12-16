@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 1,
+    "start": "2022-12-16T20:15:11.363Z",
+    "end": "2022-12-16T20:15:11.566Z",
+    "duration": 203
+  },
+  "tests": [
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "modifies the customerName variable",
+      "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "passes": [
+    {
+      "title": "returns the customerName",
+      "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
